@@ -3,7 +3,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.List;
 import java.io.IOException;
 
-public class Makelake {
+public class Bronze {
     int[][] ground;
     int finalLakeElevation;
     int rows;
